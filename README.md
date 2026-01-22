@@ -8,3 +8,5 @@ Recipe for gazpacho
 * Cucumbers
 * Onions
 
+## Directions
+chop it and mix it
